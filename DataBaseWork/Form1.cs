@@ -20,7 +20,7 @@ namespace DataBaseWork
         private bool newRowAdding = false;
         private int indexOfCommand = 0;
 
-        //при запуске по умолчанию отображаем таблицу departaments
+        //при запуске по умолчанию отображаем таблицу Users
         private string NameOfTable = "Users"; 
 
         public Form1()
