@@ -1,0 +1,11 @@
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\bin\Debug\DataBaseWork.exe.config
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\bin\Debug\DataBaseWork.exe
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\bin\Debug\DataBaseWork.pdb
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\obj\Debug\DataBaseWork.csproj.AssemblyReference.cache
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\obj\Debug\DataBaseWork.csproj.SuggestedBindingRedirects.cache
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\obj\Debug\DataBaseWork.Form1.resources
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\obj\Debug\DataBaseWork.Properties.Resources.resources
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\obj\Debug\DataBaseWork.csproj.GenerateResource.cache
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\obj\Debug\DataBaseWork.csproj.CoreCompileInputs.cache
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\obj\Debug\DataBaseWork.exe
+D:\My_programs\T.Integration - собеседование\DataBaseWork\DataBaseWork\obj\Debug\DataBaseWork.pdb
